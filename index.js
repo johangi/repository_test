@@ -1,0 +1,1 @@
+prompt("suck my nuts(y/n)")
